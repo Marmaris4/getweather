@@ -1,0 +1,1 @@
+This application allows users to search for a city and get real-time weather information. Please note that you need to obtain an API key from OpenWeatherMap (https://openweathermap.org/) and replace 'YOUR_API_KEY' with your actual API key.
